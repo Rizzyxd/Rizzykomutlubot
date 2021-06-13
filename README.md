@@ -1,0 +1,2 @@
+# Rizzykomutlubot
+Çalma kullan kk
